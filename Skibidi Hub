@@ -2,6 +2,7 @@ Config = {
 	    namescript = "SkibidiV2",--Tên Script
 	    logoscript = "117390141608083",--ID Logo Script
 	    tacgia = "Seni3"-- Tên Tác Giả	
+}
 -- if _G.HOHO_RAN then return end
 -- _G.HOHO_RAN = true
 -- most executors issue
